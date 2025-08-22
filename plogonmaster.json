@@ -6,13 +6,13 @@
         "AssemblyVersion": "0.11.22",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Penumbra-Sync/client",
+        "RepoUrl": "https://github.com/DetanShi/CityMoon",
         "Tags": [
           "customization"
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
+        "IconUrl": "https://github.com/DetanShi/ShinoRepo/blob/main/MareSynchronos/images/icon.png?raw=true",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
