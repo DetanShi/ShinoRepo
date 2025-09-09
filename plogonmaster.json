@@ -13,7 +13,6 @@
         ],
         "RepoUrl": "https://github.com/DetanShi/HelloWorld",
         "DalamudApiLevel": 13,
-        "IconUrl": "https://github.com/DetanShi/HelloWorld/blob/master/Data/goat.png?raw=true",
         "Punchline": "A description that shows up in /xlplugins. List any major slash-command(s).",
         "IsHide": "False",
         "IsTestingExclusive": "False",
