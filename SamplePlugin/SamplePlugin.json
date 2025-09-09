@@ -1,7 +1,7 @@
 {
   "Author": "LunarrisXIV",
   "Name": "HelloWorld",
-  "InternalName": "HelloWorld",
+  "InternalName": "SamplePlugin",
   "AssemblyVersion": "0.0.1",
   "Description": "A test run of a simple plugin.",
   "ApplicableVersion": "any",
