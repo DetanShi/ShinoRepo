@@ -1,25 +1,24 @@
 [
     {
-        "Author": "Lunarris",
+        "Author": "your name here",
         "Name": "Sample Plugin",
         "InternalName": "SamplePlugin",
         "AssemblyVersion": "0.0.0.1",
         "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/DetanShi/HelloWorld",
         "Tags": [
           "sample",
           "plugin",
           "goats"
         ],
+        "RepoUrl": "https://github.com/DetanShi/HelloWorld",
         "DalamudApiLevel": 13,
-        "LoadPriority": 0,
         "IconUrl": "https://github.com/DetanShi/HelloWorld/blob/master/Data/goat.png?raw=true",
         "Punchline": "A description that shows up in /xlplugins. List any major slash-command(s).",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/Sample.Plugin.zip",
-        "DownloadLinkTesting": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/Sample.Plugin.zip",
-        "DownloadLinkUpdate": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/Sample.Plugin.zip"
+        "DownloadLinkInstall": "hhttps://github.com/DetanShi/HelloWorld/releases/download/0.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/latest.zip"
       }
 ]
