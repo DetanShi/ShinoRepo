@@ -1,20 +1,20 @@
 {
-  "Author": "LunarrisXIV",
-  "Name": "HelloWorld",
+  "Author": "Lunarris",
+  "Name": "Sample Plugin",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.0.1",
-  "Description": "A test run of a simple plugin.",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/DetanShi/HelloWorld",
   "Tags": [
-    "simple"
+    "sample",
+    "plugin",
+    "goats"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/DetanShi/HelloWorld/blob/master/Data/goat.png?raw=true",
-  "Punchline": "A test run of a simple plugin.",
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
   "AcceptsFeedback": true
 }
