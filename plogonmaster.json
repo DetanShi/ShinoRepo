@@ -1,19 +1,19 @@
 [
     {
-        "Author": "darkarchon",
-        "Name": "Mare Synchronos OG",
-        "InternalName": "MareSynchronosOG",
-        "AssemblyVersion": "0.11.22",
-        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+        "Author": "LunarrisXIV",
+        "Name": "HelloWorld",
+        "InternalName": "HelloWorld",
+        "AssemblyVersion": "0.0.1",
+        "Description": "A test run of a simple plugin.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/DetanShi/CityMoon",
+        "RepoUrl": "https://github.com/DetanShi/HelloWorld",
         "Tags": [
           "customization"
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IconUrl": "https://github.com/DetanShi/ShinoRepo/blob/main/MareSynchronos/images/icon.png?raw=true",
-        "Punchline": "Let others see you as you see yourself.",
+        "Punchline": "A test run of a simple plugin.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadLinkInstall": "https://github.com/DetanShi/ShinoRepo/releases/download/0.11.22/0.11.22.zip",
