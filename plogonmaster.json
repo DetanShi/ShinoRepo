@@ -16,8 +16,8 @@
         "Punchline": "A test run of a simple plugin.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/DetanShi/ShinoRepo/releases/download/0.11.22/0.11.22.zip",
-        "DownloadLinkTesting": "https://github.com/DetanShi/ShinoRepo/releases/download/0.11.22/0.11.22.zip",
-        "DownloadLinkUpdate": "https://github.com/DetanShi/ShinoRepo/releases/download/0.11.22/0.11.22.zip"
+        "DownloadLinkInstall": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/HelloWorld.zip",
+        "DownloadLinkTesting": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/HelloWorld.zip",
+        "DownloadLinkUpdate": "https://github.com/DetanShi/HelloWorld/releases/download/0.0.1/HelloWorld.zip"
       }
 ]
